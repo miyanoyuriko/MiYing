@@ -1,0 +1,93 @@
+https://lithiumllizimu.lofter.com/post/1d41e727_11601b91
+分手绯闻-Lithium_离子慕
+
+
+<pc){
+		o.style.width = pw+'px';
+		o.style.height = 'auto';
+		o.style.marginLeft = '0px';
+		o.style.marginTop = -(pw/c-ph)/2 + 'px';
+	}else{
+		o.style.height = ph+'px';
+		o.style.width = 'auto';
+		o.style.marginTop = '0px';
+		o.style.marginLeft = -(ph*c-pw)/2 + 'px';
+	}
+}
+window.onresize = function(){skin(document.getElementById('bg'))}
+</script>
+</head>
+<iframe id="control_frame" allowtransparency="true" scrolling="no" frameborder="0" style="position:fixed;_position:absolute;clear:both; width: 425px; height: 32px; z-index:1337; top:0; right:15px;zoom:1; border:0px; background-color:transparent; overflow:hidden;" src="//www.lofter.com/control?blogId=490858279&postId=291511185" ></iframe>
+<iframe style="display:none" src="https://l.bst.126.net/rsc/htm/music.html" ></iframe>
+
+<body>
+
+<div class="bbg"><img id="bg" src="http://lofter.nos.netease.com/stimg/bi1IUWdzUm1Tb2ZDa09jUldoY1d5bzVqcVQ3aWZidmg.jpg?imageView" onload="skin(document.getElementById('bg'))" />
+<p>CP：米英</p> 
+<p><br /></p> 
+<p>Rate：NC-17</p> 
+<p><br /></p> 
+<p>Attention：赶个时髦的乐队AU</p> 
+<p>紧急摸的短小无聊pwp，抽烟喝酒玩摇滚但是大家都是好男孩</p> 
+<p>三人乐队实在不方便，多加了几个以防主唱和鼓手后台乱搞时台上没人救场的其他成员<br /></p> 
+<p><br /></p> 
+<p>Summary：God Save The Queen！</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>&nbsp;</p> 
+<p>“这首歌献给！我吃麦当劳噎死的前男友！”亚瑟抓着话筒吼叫，底下的人群也随着他高高举起的手一同吼叫起来，就好像他刚才只是说唱一首歌给亲爱的妈咪。“Post Break-Up Sex！”这又引起一阵欢呼。</p> 
+<p><br /></p> 
+<p>他朝身后的乐队做了一个狂野的手势，示意他们赶紧给出前奏。成员们面面相觑，“这首不行，鼓手没有来……”靠他最近的贝司手小声提醒他。</p> 
+<p><br /></p> 
+<p>“他已经死了！”亚瑟暴躁地说，提高的声音通过话筒在室内回荡，只让完全沉浸在狂欢中的人群更加激动，爆发出尖叫和口哨。亚瑟享受地在那疯狂的互动中对贝司手不友好地假笑了一下，率先弹起了因为缺少鼓点而显得刺耳的前奏，“我已经不想看见你……！”第一句歌词唱得太大声以至于有点跑调。</p> 
+<p><br /></p> 
+<p>阿尔弗雷德推开地下室后门的时候，正看见两个小时前宣布和他分手的亚瑟和人群一起大吼“Post Break-Up Sex！”穿着那条紧绷绷的皮裤坐在他的爵士鼓上。这只让他更生气了。他在扭动的人群中挤出一条通道，几步跨上台坐到鼓后面，拿起鼓棒紧挨着亚瑟的屁股强行加入了伴奏。</p> 
+<p><br /></p> 
+<p>“你不该在这里，我刚刚宣布我的前男友死了。”亚瑟低头瞪着他，台下的人群因此发出一阵嘘声，“死了的人可不会坐在这里打鼓。”</p> 
+<p><br /></p> 
+<p>“说得很有道理，但死掉的人不是我。”阿尔弗雷德一把抓过他握着话筒的手说，“我不是你的前男友，我可没有同意分手的事。”台下的嘘声更响了。</p> 
+<p><br /></p> 
+<p>“滚蛋！”亚瑟甩开他的手，“你被开除了！”</p> 
+<p><br /></p> 
+<p>“那会让你一首歌都唱不成。”阿尔弗雷德索性摘下对着贝司手的话筒拿到自己面前，“除非你能边弹吉他边打鼓。”</p> 
+<p><br /></p> 
+<p>“为什么你们非要拿着话筒吵架？”贝司手低声说。</p> 
+<p><br /></p> 
+<p>“闭嘴。”亚瑟凶狠地说，坚信总会有一首不需要鼓的歌，“God Save The Queen！”他对身后的乐队说，突然安静的台下传来两声大笑。</p> 
+<p><br /></p> 
+<p>“你说性手枪的那首吗？鉴于我们是个摇滚乐队。”另一个贝司手已经猜到答案，但还是绝望地问。</p> 
+<p><br /></p> 
+<p>“不，升国旗用的那首。”亚瑟摆出一副听不见任何意见的样子，像个独裁者一样凶巴巴地把乐队成员瞪了个遍，“现在马上！还是说你们有谁没听过这首歌？”</p> 
+<p><br /></p> 
+<p>键盘手翻了个白眼，按了几个圣洁柔和的音出来，但很快就被暴力的鼓点盖过了，阿尔弗雷德格外卖力地敲起了《星条旗永不落》。</p> 
+<p><br /></p> 
+<p>“我们还继续吗？”贝司手问，看着亚瑟冲过去揪起阿尔弗雷德的领子。</p> 
+<p><br /></p> 
+<p>另一个贝司手说：“没有主唱和鼓，没什么可干的了。”</p> 
+<p><br /></p> 
+<p>“那弹莫扎特吧。”键盘手说，往旁边跨了一步挡住亚瑟和阿尔弗雷德扭打着往后台去了的身影，“《土耳其进行曲》应该是最摇滚的一首了。”<br /></p> 
+<p><br /></p> 
+<p><a rel="nofollow" href="https://wx1.sinaimg.cn/mw690/005T9dsVgy1fkh261a0x8j30c855lqp6.jpg" target="_blank"  >Post Break-Up Sex！</a></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>“我气死了。”亚瑟边穿衣服边说，拿起靠在墙边的电吉他，“现在还是很生气。”</p> 
+<p><br /></p> 
+<p>“别生气了。”阿尔弗雷德说，“这样你等下回台上宣布你的男朋友又复活了的时候才能显得真的很高兴，而不是好像那是一件令你遗憾的事。”</p> 
+<p><br /></p> 
+<p>亚瑟走出休息室，冷冰冰地哼了一声默许阿尔弗雷德追上来搂住他的肩膀。</p> 
+<p><br /></p> 
+<p>“我发誓再也不把你喜欢刺绣的事告诉别人啦。”阿尔弗雷德严肃地说。</p> 
+<p><br /></p> 
+<p>“你还是去死吧。”亚瑟踩了他一脚。</p> 
+<p><br /></p> 
+<p>“我猜暂时不能。有人需要我。”阿尔弗雷德笑起来，低下头去亲了他一下，“我听见台上的伙计们已经在弹小步舞曲了。”<br /></p> 
+<p><br /></p> 
+<p>-END-<br /></p> 
+<p>&nbsp;</p> 
+<p>关于提到的歌曲：</p> 
+<p>Post Break-Up Sex – Vaccines</p> 
+<p>God Save the Queen – Sex Pistols（这个版本政治不太正确）</p> 
+<p>《星条旗永不落》确实有个以鼓为主的2分40秒版本，特别难听</p> 
+<p><br /></p>
+                        
+                    
